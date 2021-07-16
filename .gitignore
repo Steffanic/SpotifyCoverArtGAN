@@ -1,0 +1,7 @@
+images/
+ModelNo*/
+orphaned_art/
+training_checkpoints/
+logs/
+track_db.csv
+tensorboard_nb.ipynb
