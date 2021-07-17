@@ -5,3 +5,12 @@ training_checkpoints/
 logs/
 track_db.csv
 tensorboard_nb.ipynb
+image_at_epoch_1.png
+image_at_epoch_2.png
+image_at_epoch_3.png
+image_at_epoch_4.png
+image_at_epoch_5.png
+image_at_epoch_6.png
+image_at_epoch_7.png
+image_at_epoch_8.png
+image_at_epoch_9.png
